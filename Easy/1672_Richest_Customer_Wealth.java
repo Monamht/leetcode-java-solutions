@@ -4,6 +4,7 @@
 // Space Complexity: O(1)
 // Approach: Sum each customer's wealth and track the maximum.
 
+// Biginner friendly approach
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int max = 0;
@@ -19,3 +20,16 @@ class Solution {
         return max;
     }
 }
+
+/*Approach 2: Using Integer.MIN_VALUE
+
+int ans = Integer.MIN_VALUE;
+for (int person = 0; person < accounts.length; person++) {
+    int sum = 0;
+    for (int account = 0; account < accounts[person].length; account++) {
+        sum += accounts[person][account];
+    }
+    if (sum > ans) {
+        ans = sum;
+    }
+}*/
