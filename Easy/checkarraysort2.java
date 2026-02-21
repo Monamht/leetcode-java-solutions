@@ -1,3 +1,8 @@
+/*Problem Statement: Given an array of size n, write a program to check if the given array 
+is sorted in (ascending / Increasing / Non-decreasing) order or not. 
+If the array is sorted then return True, Else return False. 
+(optimal approach)
+Time Complexity : O(N)*/
 public class checkarraysort2 {
     public static boolean checksort(int[] arr){
         for (int i=1; i<arr.length; i++){
