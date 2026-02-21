@@ -1,6 +1,6 @@
-# 🧠 LeetCode Java Solutions
+# 🧠 Java Solutions
 
-This repository contains my **Java solutions to LeetCode problems**, created to improve problem-solving skills, strengthen **Data Structures & Algorithms (DSA)**, and prepare for **technical interviews**.
+This repository contains my **Java solutions to LeetCode + Striver's sheet + geeks for geeks problems**, created to improve problem-solving skills, strengthen **Data Structures & Algorithms (DSA)**, and prepare for **technical interviews**.
 
 Each solution is written with:
 - ✅ Clean and readable Java code  
