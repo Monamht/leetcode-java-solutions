@@ -15,6 +15,12 @@ Each solution is written with:
 ### ✅ Easy
 Problems that focus on fundamentals like:
 - Arrays
+- LinkedList
+- BinarySearch
+
+### ✅ Medium
+Problems that focus on fundamentals like:
+- Arrays
 
 ---
 
