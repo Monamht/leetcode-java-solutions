@@ -30,7 +30,7 @@ Problems that focus on fundamentals like:
 
 ## 🛠 Language & Tools
 - **Language:** Java  
-- **Platform:** LeetCode  
+- **Platform:** TakeUForward(Striver's sheet) , Leetcode
 - **IDE:** Any Java-supported editor  
 - **Version Control:** Git & GitHub  
 
