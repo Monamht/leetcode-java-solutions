@@ -56,7 +56,7 @@ If you find this repository helpful or want to discuss DSA problems, feel free t
 ⭐ Don’t forget to star the repo if you like it!
 
 ---
-
-Happy Coding! 🚀
-
+<p align="center">
+  ⭐ HAPPY LEARNING!
+</p>
 
